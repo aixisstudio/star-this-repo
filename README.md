@@ -40,6 +40,20 @@ Nothing. Absolutely nothing. And yet — **every star counts**:
 > Some repos change the world. This one changes absolutely nothing.
 > We find that refreshing.
 
+## 🤖 The star-back mechanism
+
+This repo runs an Action (`star-back.yml`) that watches its stargazers and automatically stars the best public repo of each new stargazer. Star → get starred back. Reciprocity automated.
+
+## 📈 Why star-bait works
+
+- Stars are GitHub's ranking signal — every star pushes the repo higher in "explore" feeds
+- The gimmick is self-documenting: the README *is* the pitch
+- Growth compounds: each star exposes the repo to that user's followers
+
+## 🏛️ Hall of fame
+
+The top stargazers get featured in `HALL_OF_FAME.md` — updated nightly by the Action. Early birds get permanent placement.
+
 ---
 Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch), the open-source application firewall.
 
