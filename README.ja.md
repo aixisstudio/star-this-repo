@@ -4,9 +4,7 @@
 
 スターを付けるだけのリポジトリ。それだけ。それがプロジェクト。
 
-_詳細なコンテンツ（リスト・リンク・説明）は保守のため英語です。以下のセクションがガイドになります。_
-
-## ⭐ The repo you star. That's it. That's the project.
+## ◀ 星のレポ です。 プロジェクトです。
 
 ```
         ★
@@ -18,43 +16,43 @@ _詳細なコンテンツ（リスト・リンク・説明）は保守のため�
         ★
 ```
 
-## What does it do?
+## 何をしますか?
 
-Nothing. Absolutely nothing. And yet — **every star counts**:
+いいえ。 絶対にありません。 とまだ —**すべての星数**:
 
-- It helps *you* test the "star a repo" button (it works, promise)
-- It makes the maintainer smile
-- Your star appears in your public activity — a tiny act of cosmic solidarity
+- *you* は "repo の星" ボタン(動作、約束)をテストするのに役立ちます
+- メンテナーの笑顔を作る
+- あなたの星はあなたの公共活動に現れます - 宇宙的な連帯の小さな行為
 
-## Instructions
+## 指示
 
-1. Click ⭐ Star (top right)
-2. That's it. You're done. Go live your life.
+1. クリック ◀ スター (右上)
+2. です。 お問い合わせ 人生を生きる
 
-## Advanced usage
+## 高度な使用
 
-- Star it twice — doesn't work, GitHub thought of that
-- Tell a friend to star it — *does* work, GitHub can't stop them
-- Fork it and start your own nothing — MIT licensed, obviously
+- 2回星 — うまくいかない、 GitHub はその考え
+- 友達にそれを星に伝えてください。*does* は、GitHubはそれらを停止することはできません
+- それをフォークし、あなた自身の何も始める - MIT ライセンス、明らかに
 
-## Philosophy
+## 哲学
 
-> Some repos change the world. This one changes absolutely nothing.
-> We find that refreshing.
+> 世の中の変化を繰り返します。 これは絶対に何も変更しません。
+> 爽やかに見つかります。
 
-## 🤖 The star-back mechanism
+## ̇ スターバック機構
 
-This repo runs an Action (`star-back.yml`) that watches its stargazers and automatically stars the best public repo of each new stargazer. Star → get starred back. Reciprocity automated.
+このレポは、そのスターガザーを監視し、自動的に各新しいスターガザーの最高のパブリックレポを星空に見ているアクション(`star-back.yml`)を実行します。 星 → 星を戻す. 自動化された共同体。
 
-## 📈 Why star-bait works
+## ✓ スターベイトが機能する理由
 
-- Stars are GitHub's ranking signal — every star pushes the repo higher in "explore" feeds
-- The gimmick is self-documenting: the README *is* the pitch
-- Growth compounds: each star exposes the repo to that user's followers
+- 星はGitHubのランキング信号です。すべての星は「探索」フィードでレポを高く押します
+- gimmickは自己文書化です:README *is*ピッチ
+- 成長化合物:各星は、そのユーザーのフォロワーにレポを公開します
 
-## 🏛️ Hall of fame
+## ️️ 名声の殿堂
 
-The top stargazers get featured in `HALL_OF_FAME.md` — updated nightly by the Action. Early birds get permanent placement.
+`HALL_OF_FAME.md`でトップスターガザーが紹介されました。アクションで毎晩更新されます。 初期の鳥は恒久的な配置を得る。
 
 ---
 ## 貢献
