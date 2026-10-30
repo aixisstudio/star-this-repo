@@ -4,9 +4,7 @@
 
 Репо, которое ты старишь. И всё. Это и есть проект.
 
-_Подробное содержимое (списки, ссылки, описания) ведётся на английском — разделы ниже помогут сориентироваться._
-
-## ⭐ The repo you star. That's it. That's the project.
+## ★ Репо ты звезда. Вот так. Это проект.
 
 ```
         ★
@@ -18,43 +16,43 @@ _Подробное содержимое (списки, ссылки, описа
         ★
 ```
 
-## What does it do?
+##Что он делает?
 
-Nothing. Absolutely nothing. And yet — **every star counts**:
+Ничего. Абсолютно ничего. И все же — ** каждая звезда считается **:
 
-- It helps *you* test the "star a repo" button (it works, promise)
-- It makes the maintainer smile
-- Your star appears in your public activity — a tiny act of cosmic solidarity
+- Помогает *вы* протестировать кнопку "Star a Repo" (работает, обещают)
+- Это заставляет хранителя улыбаться
+Ваша звезда появляется в вашей общественной деятельности — крошечный акт космической солидарности
 
-## Instructions
+## Инструкции
 
-1. Click ⭐ Star (top right)
-2. That's it. You're done. Go live your life.
+1. Click ★ Star (вверху справа)
+2.Вот и все. Ты закончил. Живи своей жизнью.
 
-## Advanced usage
+## Расширенное использование
 
-- Star it twice — doesn't work, GitHub thought of that
-- Tell a friend to star it — *does* work, GitHub can't stop them
-- Fork it and start your own nothing — MIT licensed, obviously
+- Звезда дважды - не работает, GitHub подумал об этом
+Скажите другу, чтобы он снялся — *делает* работу, GitHub не может остановить их
+Вилка и ничего не начинайте - MIT лицензировано
 
-## Philosophy
+##Философия
 
-> Some repos change the world. This one changes absolutely nothing.
-> We find that refreshing.
+Некоторые репо меняют мир. Это абсолютно ничего не меняет.
+Мы находим это освежающим.
 
-## 🤖 The star-back mechanism
+## Звездный механизм
 
-This repo runs an Action (`star-back.yml`) that watches its stargazers and automatically stars the best public repo of each new stargazer. Star → get starred back. Reciprocity automated.
+В этом репо работает Action (`star-back.yml`), который наблюдает за своими звездочетами и автоматически показывает лучший публичный репо каждого нового звездочета. Звезда возвращается. Взаимность автоматизирована.
 
-## 📈 Why star-bait works
+##  Why Почему работает приманка
 
-- Stars are GitHub's ranking signal — every star pushes the repo higher in "explore" feeds
-- The gimmick is self-documenting: the README *is* the pitch
-- Growth compounds: each star exposes the repo to that user's followers
+Звезды — это сигнал ранжирования GitHub — каждая звезда поднимает репо выше в «исследовании».
+- Уловка - это самодокументирование: ЧИТАЙТЕ *это * поле
+Соединения роста: каждая звезда подвергает репо подписчикам этого пользователя
 
-## 🏛️ Hall of fame
+##  ️ Зал славы
 
-The top stargazers get featured in `HALL_OF_FAME.md` — updated nightly by the Action. Early birds get permanent placement.
+Лучшие звездочеты представлены в `HALL_OF_FAME.md` — обновленном по ночам Action. Ранние птицы получают постоянное место жительства.
 
 ---
 ## Участие
