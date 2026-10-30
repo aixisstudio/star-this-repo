@@ -4,9 +4,7 @@
 
 El repo que marcas con estrella. Eso es todo. Ese es el proyecto.
 
-_El contenido detallado (listas, enlaces, descripciones) está en inglés por mantenibilidad — las secciones siguientes te guían._
-
-## ⭐ The repo you star. That's it. That's the project.
+## ⭐ El repo you star. Eso es. Ese es el proyecto.
 
 ```
         ★
@@ -18,43 +16,43 @@ _El contenido detallado (listas, enlaces, descripciones) está en inglés por ma
         ★
 ```
 
-## What does it do?
+## ¿Qué hace?
 
-Nothing. Absolutely nothing. And yet — **every star counts**:
+Nada. Absolutamente nada. Y sin embargo, todas las estrellas cuentan**:
 
-- It helps *you* test the "star a repo" button (it works, promise)
-- It makes the maintainer smile
-- Your star appears in your public activity — a tiny act of cosmic solidarity
+- Ayuda a *usted* probar el botón "star a repo" (trabaja, promete)
+- Hace sonreír al encargado
+- Su estrella aparece en su actividad pública - un pequeño acto de solidaridad cósmica
 
 ## Instructions
 
-1. Click ⭐ Star (top right)
-2. That's it. You're done. Go live your life.
+1. Haga clic en ⭐ Star (top right)
+2. Eso es. Ya terminaste. Ve a vivir tu vida.
 
-## Advanced usage
+## Uso avanzado
 
-- Star it twice — doesn't work, GitHub thought of that
-- Tell a friend to star it — *does* work, GitHub can't stop them
-- Fork it and start your own nothing — MIT licensed, obviously
+- Estrella dos veces - no funciona, GitHub pensó en eso
+- Dígale a un amigo que lo protagonice.
+- Fork it and start your own nothing - MIT licensed, obvious
 
 ## Philosophy
 
-> Some repos change the world. This one changes absolutely nothing.
-> We find that refreshing.
+Algunos repos cambian el mundo. Este no cambia absolutamente nada.
+Encontramos ese refrescante.
 
-## 🤖 The star-back mechanism
+## 🤖 El mecanismo estrella-back
 
-This repo runs an Action (`star-back.yml`) that watches its stargazers and automatically stars the best public repo of each new stargazer. Star → get starred back. Reciprocity automated.
+Este repo ejecuta una Acción (`star-back.yml`) que observa sus Stargazers y muestra automáticamente el mejor repo público de cada nueva estrella. Star → conseguir Starred volver. Reciprocidad automatizada.
 
 ## 📈 Why star-bait works
 
-- Stars are GitHub's ranking signal — every star pushes the repo higher in "explore" feeds
-- The gimmick is self-documenting: the README *is* the pitch
-- Growth compounds: each star exposes the repo to that user's followers
+- Las estrellas son la señal de clasificación de GitHub - cada estrella empuja el repo más alto en los piensos "explore"
+- El gimmick es auto-documento: el README *es* el lanzamiento
+- Compuestos de crecimiento: cada estrella expone el repo a los seguidores de ese usuario
 
-## 🏛️ Hall of fame
+♪ ♪ ♪ ♪ ♪ Salón de la fama
 
-The top stargazers get featured in `HALL_OF_FAME.md` — updated nightly by the Action. Early birds get permanent placement.
+Las estrellas más altas se presentan en `HALL_OF_FAME.md` — actualizados nocturnamente por la Acción. Las aves primitivas consiguen una colocación permanente.
 
 ---
 ## Contribuir
